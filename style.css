@@ -1,0 +1,78 @@
+p {
+  font-family: "Ms Madi", cursive;
+}
+body {
+  background-color: rgb(28, 177, 152);
+}
+/*<main>
+<div>
+<div class="UYrFC _80tAB"><div class="nLFdg"><img alt="" class="aXOnh  _9CDVW" src="/static/images/homepage/screenshots/screenshot1.png/fdfe239b7c9f.png"><img alt="" class="aXOnh JtrJi " src="/static/images/homepage/screenshots/screenshot2.png/4d62acb667fb.png"><img alt="" class="aXOnh  " src="/static/images/homepage/screenshots/screenshot3.png/94edb770accf.png"><img alt="" class="aXOnh  " src="/static/images/homepage/screenshots/screenshot4.png/a4fd825e3d49.png"></div></div>
+<form action="post">
+<img src="https://www.instagram.com/static/images/web/logged_out_wordmark.png/7a252de00b20.png" alt="Instagram" />
+<br /><br />
+<input aria-label="Phone number, username, or email" aria-required="true" autocapitalize="off" autocorrect="off" maxlength="75" name="username" type="text" class="_2hvTZ pexuQ zyHYP" value="" placeholder="Phone number, username, or email" />
+<br /><br />
+<label class="f0n8F">
+<input aria-label="Password" aria-required="true" autocapitalize="off" autocorrect="off" name="password" type="password" class="_2hvTZ pexuQ zyHYP" value="" placeholder="Password" />
+<div class="qF0y9 Igw0E IwRSH eGOV_ acqo5 _4EzTm bkEs3 CovQj jKUp7 DhRcB">
+  <br><br>
+  <div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                          CovQj                  jKUp7          DhRcB                                                    "><button class="sqdOP  L3NKy   y3zKF     " disabled="" type="submit"><div class="             qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm                                                                                                              ">Log In</div></button></div>
+</div>
+
+<br><br>
+<div class="K-1uj Z7p_S">
+  <div class="s311c t7mNY"></div>
+  <div class="_0tv-g">or</div>
+  <div class="s311c t7mNY"></div>
+</div>
+<br><br>
+<button class="sqdOP yWX7d    y3zKF     " type="button">
+  <span class=" coreSpriteFacebookIcon AeB99"></span>
+  <span class="KPnG0">Log in with Facebook</span>
+</button>
+<br>
+<a class="_2Lks6" href="/accounts/password/reset/" tabindex="0">Forgot password?</a>
+</form>
+</div>
+<br><br>
+<p class="izU2O ">Don't have an account? <a data-testid="sign-up-link" href="/accounts/emailsignup/" tabindex="0"><span class="_7UhW9   xLCgt        qyrsm      gtFbE       se6yk        ">Sign up</span></a></p>
+<br>
+<div class="APQi1"><p class="b_nGN">Get the app.</p><div class="iNy2T">
+  <a aria-label="Download on the App Store" class="z1VUo" href="https://itunes.apple.com/app/instagram/id389801252?pt=428156&amp;ct=igweb.loginPage.badge&amp;mt=8&amp;vt=lo" tabindex="0">
+  <img alt="Download on the App Store" class="Rt8TI " src="/static/images/appstore-install-badges/badge_ios_english-en.png/180ae7a0bcf7.png"></a>
+  <a aria-label="Get it on Google Play" class="z1VUo" href="https://play.google.com/store/apps/details?id=com.instagram.android&amp;referrer=utm_source%3Dinstagramweb%26utm_campaign%3DloginPage%26ig_mid%3D5B19A9CF-2C18-4863-973C-167F2627C921%26utm_content%3Dlo%26utm_medium%3Dbadge" tabindex="0">
+  <img alt="Get it on Google Play" class="Rt8TI " src="/static/images/appstore-install-badges/badge_android_english-en.png/e9cd846dc748.png"></a></div></div>
+<footer>
+  <a href="https://about.facebook.com/meta">Meta</a>  
+  <a href="https://about.instagram.com/">About</a>
+  <a href="https://about.instagram.com/blog/">Blog</a>
+  <a href="https://www.instagram.com/about/jobs/">job</a>
+  <a href="https://help.instagram.com/"> Help</a>
+  <a href="https://developers.facebook.com/docs/instagram">API</a>
+  <a href="https://www.instagram.com/legal/privacy/">Privacy</a>
+  <a href="https://www.instagram.com/legal/terms/">Terms</a>
+  <a href="">Top Accounts</a>
+  <a href="">Hashtags</a>
+  <a href="">Location</a>
+  <a href="">Instagram Lite</a>
+  <a href="">Contact Uploading & Non-Users</a>
+  <form type="post" action="/action_page.php">
+    <label for="Language">
+    </label>
+    <select name="Language" id="Language">
+      <option value="Arabic">Arabic</option>
+      <option value="English">English</option>
+      <option value="Yoruba">Yoruba</option>
+      <option value="Hausa">Hausa</option>
+    </select>
+    <br><br>
+    <input type="submit" value="Submit">
+  </form>
+  <p>&copy;2022 Instagram from meta </p> 
+
+</footer>
+</main>*/
+
+form {
+  background-color: #fff;
+}
